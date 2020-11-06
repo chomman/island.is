@@ -1,4 +1,4 @@
-# Aðgerðir
+# API catalogue
 
 ## About
 
@@ -12,12 +12,10 @@ TODO
 
 ## Getting started
 
-To run the dev server
-
 ```bash
-yarn start adgerdir
+yarn start api-catalogue
 ```
 
 ## Code owners and maintainers
 
-- [Kosmos & Kaos](https://github.com/orgs/island-is/teams/kosmos-kaos/members)
+- [Advania](https://github.com/orgs/island-is/teams/advania/members)

@@ -13,7 +13,7 @@ All code, documentation and API interfaces should be written in British English.
 
 This can be challenging when dealing with government domain words. However, the goal is to provide all of our services in English as well as Icelandic, so we need to find good translations anyways.
 
-When in doubt, check out the [Glossary](glossary.md). If something is missing from it, you can ask for suggestions in the team. Just remember to add any new translations to the Glossary.
+When in doubt, check out the [Glossary](../misc/glossary.md). If something is missing from it, you can ask for suggestions in the team. Just remember to add any new translations to the Glossary.
 
 When integrating with a web service that has its interface in Icelandic, all endpoints and fields should be translated to and from English in the integration layer, so other parts of the system can use English-language objects and functions.
 

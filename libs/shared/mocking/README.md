@@ -1,4 +1,4 @@
-# shared-mocking
+# Shared Mocking
 
 This library provides helpers to set up API mocking in Node.JS and browser projects.
 

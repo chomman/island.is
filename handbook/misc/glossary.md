@@ -10,9 +10,11 @@ Lists here-in should be alphabetically sorted.
 - FOSS = Free and Open-Source Software
 - OWASP = Open Web Application Security Project
 - PII = Personally Identifiable Information
+- WCAG = Web Content Accessibility Guidelines
 
 ## Government domain words:
 
 - Fæðingarorlof = Parental leave
 - Kennitala = National ID (**not SSN**)
 - Vegabréf = Passport
+- Straumurinn = Iceland's X-Road data transfer layer

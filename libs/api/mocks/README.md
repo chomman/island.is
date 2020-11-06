@@ -1,4 +1,4 @@
-# api-mocks
+# API Mocks
 
 Provides mocks for the main GraphQL api.
 
@@ -6,7 +6,7 @@ Provides mocks for the main GraphQL api.
 
 Add the mock service worker to your public folder by running `yarn msw init path/to/your/public/`, then add this line to your entry file:
 
-```
+```typescript
 import '@island.is/api/mocks'
 ```
 

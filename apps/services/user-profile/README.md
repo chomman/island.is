@@ -1,4 +1,4 @@
-# Aðgerðir
+# User Profile
 
 ## About
 
@@ -12,12 +12,10 @@ TODO
 
 ## Getting started
 
-To run the dev server
-
 ```bash
-yarn start adgerdir
+yarn start services-user-profile
 ```
 
 ## Code owners and maintainers
 
-- [Kosmos & Kaos](https://github.com/orgs/island-is/teams/kosmos-kaos/members)
+- [Sendiráðið](https://github.com/orgs/island-is/teams/sendiradid/members)
